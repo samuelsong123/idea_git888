@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("new file");
         System.out.println("第一次更新");
         System.out.println("master更改");
+        System.out.println("master第二次更改");
     }
 }
